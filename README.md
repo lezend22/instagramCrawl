@@ -1,13 +1,13 @@
-#Instagram Crawl - Toy project
+# Instagram Crawl - Toy project
 
 ------------------
 
 
-###[아이돌 사진 받을려고 뚝딱 만든 토이 프로젝트]
+### [아이돌 사진 받을려고 뚝딱 만든 토이 프로젝트]
 
 
 
->how to use?
+>  how to use?
 > 
 >- 실행 후 원하는 게시물 링크 paste
 >
